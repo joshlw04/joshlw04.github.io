@@ -5,9 +5,20 @@ body {
 p {
   color: white;
   font-family: arial, sans-serif;
+  text-align: center;
+  font-size: 40px;
 }
 
 h1 {
   color: white;
   font-family: arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: pink;
 }
